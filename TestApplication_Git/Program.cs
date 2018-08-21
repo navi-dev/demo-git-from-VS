@@ -11,6 +11,7 @@ namespace TestApplication_Git
             // branch v1.0
              // added new file
              // from master
+             // from branch
         }
     }
 }
